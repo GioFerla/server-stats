@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+accesso.txt
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.sqlite3-*
+/data/
+.venv/
