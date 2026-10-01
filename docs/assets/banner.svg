@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="340" viewBox="0 0 1440 340" role="img" aria-labelledby="title description">
+  <title id="title">Server Stats — il tuo server, a colpo d’occhio</title>
+  <desc id="description">Dashboard Linux personalizzabile per metriche di sistema e conteggio energetico.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#121e2b"/><stop offset="1" stop-color="#0b1018"/></linearGradient>
+    <linearGradient id="area" x2="0" y2="1"><stop stop-color="#63e6b4" stop-opacity=".2"/><stop offset="1" stop-color="#63e6b4" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#243043" stroke-opacity=".45"/></pattern>
+  </defs>
+  <rect width="1440" height="340" rx="20" fill="url(#background)"/>
+  <rect x="785" width="655" height="340" fill="url(#grid)"/>
+  <rect x="60" y="50" width="48" height="48" rx="14" fill="#63e6b4" fill-opacity=".1" stroke="#63e6b4" stroke-opacity=".3"/>
+  <path d="M70 76h9l5-13 8 24 5-11h11" fill="none" stroke="#63e6b4" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="126" y="80" fill="#63e6b4" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">LINUX SERVER MONITORING</text>
+  <text x="60" y="169" fill="#edf3fc" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Server Stats</text>
+  <text x="62" y="216" fill="#aab9cd" font-family="Arial, sans-serif" font-size="25">Il tuo server, a colpo d’occhio.</text>
+  <text x="62" y="282" fill="#8b9bb1" font-family="Arial, sans-serif" font-size="16">METRICHE LIVE  /  ENERGIA  /  BRANDING SU MISURA</text>
+  <rect x="883" y="62" width="480" height="216" rx="16" fill="#121a26" stroke="#2b3d4d"/>
+  <circle cx="910" cy="90" r="4" fill="#63e6b4"/>
+  <text x="924" y="95" fill="#aab9cd" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">OSSERVA. MISURA. PERSONALIZZA.</text>
+  <path d="M910 148H1334M910 192H1334M910 235H1334" stroke="#243043"/>
+  <path d="M910 217L938 206L965 212L992 178L1019 188L1046 156L1073 169L1100 143L1127 166L1154 133L1181 151L1208 122L1235 142L1262 117L1289 129L1316 111L1334 116V250H910Z" fill="url(#area)"/>
+  <path d="M910 217L938 206L965 212L992 178L1019 188L1046 156L1073 169L1100 143L1127 166L1154 133L1181 151L1208 122L1235 142L1262 117L1289 129L1316 111L1334 116" fill="none" stroke="#63e6b4" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M910 235L938 224L965 228L992 211L1019 215L1046 197L1073 206L1100 180L1127 187L1154 173L1181 185L1208 163L1235 174L1262 155L1289 165L1316 150L1334 157" fill="none" stroke="#729dff" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>
